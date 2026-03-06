@@ -1,0 +1,15 @@
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\bin\Debug\net8.0\While loops.exe
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\bin\Debug\net8.0\While loops.deps.json
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\bin\Debug\net8.0\While loops.runtimeconfig.json
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\bin\Debug\net8.0\While loops.dll
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\bin\Debug\net8.0\While loops.pdb
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\obj\Debug\net8.0\While loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\obj\Debug\net8.0\While loops.AssemblyInfoInputs.cache
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\obj\Debug\net8.0\While loops.AssemblyInfo.cs
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\obj\Debug\net8.0\While loops.csproj.CoreCompileInputs.cache
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\obj\Debug\net8.0\While loops.sourcelink.json
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\obj\Debug\net8.0\While loops.dll
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\obj\Debug\net8.0\refint\While loops.dll
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\obj\Debug\net8.0\While loops.pdb
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\obj\Debug\net8.0\While loops.genruntimeconfig.cache
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\While loops\While loops\obj\Debug\net8.0\ref\While loops.dll
