@@ -2,8 +2,8 @@
 
 Console.WriteLine("Welcome to the calculator! What would you like to do today? (Please Capitalize)");
 String function = Console.ReadLine();
+function = function.trim 
 
-Console.WriteLine("What is your first number?");
 double a = Double.Parse(Console.ReadLine());
 
 Console.WriteLine("What is your second number?");

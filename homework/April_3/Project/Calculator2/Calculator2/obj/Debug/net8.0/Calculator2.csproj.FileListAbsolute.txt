@@ -1,0 +1,15 @@
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.exe
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.deps.json
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.runtimeconfig.json
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.dll
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\bin\Debug\net8.0\Calculator2.pdb
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.AssemblyInfoInputs.cache
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.AssemblyInfo.cs
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.sourcelink.json
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.dll
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\obj\Debug\net8.0\refint\Calculator2.dll
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.pdb
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\obj\Debug\net8.0\Calculator2.genruntimeconfig.cache
+C:\Users\bgiov\3D Objects\2026-Spring-GAME240-01\RiderProjects\Calculator2\Calculator2\obj\Debug\net8.0\ref\Calculator2.dll
